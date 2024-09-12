@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning python at Moringa School
 - 💞️ I’m looking to collaborate on mostly frontend development
-- 📫 How to reach me: 0727862079 or candyjessie2@gmail.com
+- 📫 How to reach me: candyjessie2@gmail.com
 - 😄 Pronouns: she/her
 
 <!---
